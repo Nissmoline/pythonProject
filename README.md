@@ -28,12 +28,16 @@ Pygame (for window creation and input handling)
 Project Structure
 The repository is organized as follows:
 
-
 ├── main.py           # Main script for menu and figure display
+
 ├── figures.py        # Module defining 3D figure geometry
+
 ├── buttons.py        # Button rendering functions for the menu
+
 ├── render_text.py    # Text rendering functions
+
 ├── render_figure.py  # Functions for figure display and interaction
+
 └── README.md         # Project documentation
 
 etup Instructions
