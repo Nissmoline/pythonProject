@@ -1,28 +1,3 @@
-Two-Point Perspective Projection of 3D Figures Using OpenGL
-
-Overview
-This project showcases a Python application that visualizes 3D figures—tetrahedron, hexahedron, and octahedron—using two-point perspective projection in OpenGL. Users can select a figure from the main menu and rotate it using mouse controls for detailed viewing. The project emphasizes the fundamentals of 3D graphics, perspective projection, and interactive user interfaces.
-
-Table of Contents
-Project Details
-Technologies Used
-Project Structure
-Setup Instructions
-Features
-Conclusion
-Project Details
-
-The primary objective is to implement a two-point perspective projection for three-dimensional figures, providing realistic visual depth. Key objectives include:
-
-Developing an interactive main menu to select a 3D figure.
-Displaying wireframe models of selected figures with perspective effects.
-Enabling real-time rotation of figures using mouse interaction.
-Optimizing rendering functions for smooth transitions between menu and figure display.
-Technologies Used
-Programming Language: Python
-Development Environment: PyCharm Community Edition
-Graphics Libraries:
-OpenGL (PyOpenGL)```markdown
 # Two-Point Perspective Projection of 3D Figures Using OpenGL
 
 This project showcases a Python application that visualizes 3D figures—tetrahedron, hexahedron, and octahedron—using two-point perspective projection in OpenGL. Users can select a figure from the main menu and rotate it using mouse controls for detailed viewing. The project emphasizes the fundamentals of 3D graphics, perspective projection, and interactive user interfaces.
